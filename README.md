@@ -1,9 +1,7 @@
 <h1 align="center">Hello World👋, I'm Mars</h1>
-<h3 align="center">Purdue University ECE M.S. Student | Software Engineer | <a href="https://medium.com/@mars-wangyang">Technical Blogger</a> | Adventurer</h3>
 
 ### About Me
 <p> 
-🎓  I'm currently studying in Electrical and Computer Engineering at Purdue University, West Lafayette. </br>
 🌱  I'm on track with learning more about AI Agent, LLM, Cloud, Software Architecture, and Distributed Systems. </br>
 
 <h3 align="left">Connect with me</h3>
