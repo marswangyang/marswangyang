@@ -1,12 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Mars</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=MS+in+ECE+@+Purdue;Incoming+SDE+@+Amazon;LLM+and+AI+Agent+Enthusiast;Full+Stack+Cloud+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;LLM+and+AI+Agent+Enthusiast;Cloud+Architect" alt="Typing SVG" />
 </p>
 
 ### About Me
-
 - 🤖 Deeply diving into **LLM Orchestration, RAG Pipelines**, and **Multi-Agent Systems**.
 - 🛠️ Building **Personal AI Memory** (Chrome Extension) to revolutionize how we interact with chat history.
+
 ---
 
 ### Projects
