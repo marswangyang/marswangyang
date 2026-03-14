@@ -1,52 +1,52 @@
-<h1 align="center">Hello World👋, I'm Mars</h1>
-<h3 align="center">Purdue University ECE M.S. Student | Software Engineer | <a href="https://medium.com/@mars-wangyang">Technical Blogger</a> | Adventurer</h3>
+<h1 align="center">Hi 👋, I'm Mars</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=MS+in+ECE+@+Purdue;Incoming+SDE+@+Amazon;LLM+and+AI+Agent+Enthusiast;Full+Stack+Cloud+Architect" alt="Typing SVG" />
+</p>
 
 ### About Me
-<p> 
-🎓  I'm currently studying in Electrical and Computer Engineering at Purdue University, West Lafayette. </br>
-🌱  I'm on track with learning more about AI Agent, LLM, Cloud, Software Architecture, and Distributed Systems. </br>
 
-<h3 align="left">Connect with me</h3>
+- 🤖 Deeply diving into **LLM Orchestration, RAG Pipelines**, and **Multi-Agent Systems**.
+- 🛠️ Building **Personal AI Memory** (Chrome Extension) to revolutionize how we interact with chat history.
+---
+
+### Projects
+* **Creator of [Personal AI Memory](https://github.com/marswangyang/personal-ai-memory)**
+  * A specialized Chrome Extension for managing and indexing cross-platform AI chat histories.
+  * Implementing semantic search and context retrieval to bridge the gap between fragmented AI interactions.
+
+
+---
+
+### Technical Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, Java, Golang, C# |
+| **Cloud & DevOps** | Azure, AWS, GCP, Docker, Kubernetes, Terraform |
+| **Data & RAG** | PostgreSQL (pgvector), Redis, Pinecone, MSSQL, MySQL |
+| **Frameworks** | LangChain, Spec-kit, Node.js, React, FastAPI |
+
+---
+
+### Contribution Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marswangyang/marswangyang/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marswangyang/marswangyang/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marswangyang/marswangyang/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### Credentials
+* **Microsoft Certified**: Azure Developer Associate (AZ-204), Azure Administrator Associate (AZ-104)
+* **Microsoft Certified Trainer (MCT)**
+* **Microsoft Global Hackathon 2022**: The Most Popular Award (Taiwan)
+
+---
+### Contact
 <p align="left">
-<a href="https://www.linkedin.com/in/marswangyang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mars wang" height="30" width="40" /></a>
-<a href="https://medium.com/@mars-wangyang">
-  <img align="left" height="30" width="40"  src="https://cdn.simpleicons.org/medium/777777" />
-</a>
-</p>
+
+<a href="https://www.linkedin.com/in/marswangyang/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mars-wangyang" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 </p>
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=red)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=CSharp&logoColor=007396)
-![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=007396)
-
-
-### Cloud Services
-![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=Azure)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS)
-![GCP](https://img.shields.io/badge/-GCP-000?style=for-the-badge&logo=Google-GCP)
-
-### Technologies
-
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)
-![MacOS](https://img.shields.io/badge/-MacOS-000?style=for-the-badge&logo=MacOS)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
-![MSSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=007396) 
-![PostgreSQL](https://img.shields.io/badge/Microsoft%20SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=007396) 
-![MYSQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=007396) 
-
-### Certificates
-
-<p align="left">
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MarsD-2305/D3BDEF124037DCD1?sharingId=EC3477E1926F0194" target="blank"><img length=100 width=100 src="./Certificates/MCT_2023.png" /> 
-    <a href="https://www.credly.com/badges/cc24f8eb-c8d6-4115-954f-16700b6082e1/public_url" target="blank"><img length=100 width=100 src="./Certificates/microsoft-certified-azure-developer-associate.1.png" /> 
-    <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/MarsD-2305/D3BDEF124037DCD1?sharingId=EC3477E1926F0194" target="blank"><img length=100 width=100 src="./Certificates/az104-badge.png" /> 
-    <a href="https://www.credly.com/badges/e55aca56-ab49-4e5e-884c-989f4d847397/public_url" target="blank"><img length=100 width=100 src="./Certificates/microsoft-certified-azure-fundamentals.png" /> 
-    <a href="https://www.credly.com/badges/9b461b6f-2342-4dcb-af69-f3df32b59925/public_url" target="blank"><img length=100 width=100 src="./Certificates/microsoft-global-hackathon-2022-award-winner.png" /> 
-</p>
-
