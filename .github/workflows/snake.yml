@@ -1,14 +1,11 @@
 name: Generate Snake Animation
 
 on:
-  # 每天半夜 12 點自動執行一次
   schedule:
     - cron: "0 0 * * *" 
   
-  # 允許你手動點擊執行
   workflow_dispatch:
   
-  # 當你在 master/main 分支 push 代碼時也會執行
   push:
     branches:
     - master
